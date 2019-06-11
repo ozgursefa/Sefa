@@ -1,0 +1,12 @@
+// Import custom variables (overrides Bootstrap default variables)
+@import "variables.scss";
+
+// Import Bootstrap
+@import "../node_modules/bootstrap/scss/bootstrap-grid.scss";
+
+// Import custom styles
+@import "header.scss";
+@import "navbar.scss";
+@import "cards.scss";
+@import "footer.scss";
+
